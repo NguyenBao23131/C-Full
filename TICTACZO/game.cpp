@@ -97,7 +97,6 @@ int main(){
             drawBoard(spaces);
         }
     }
-
-
+    std::cout << "Thanks for playing!" << std::endl;
     return 0;
 }
